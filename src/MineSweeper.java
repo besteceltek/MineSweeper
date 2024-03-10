@@ -84,7 +84,7 @@ public class MineSweeper {
     void matrixFixer() {
         boolean check = true;
         while (check) {
-            System.out.println("Field size is not applicable, please create a field 2x2 at minimum.");
+            System.out.println("Satır ve sütun sayısı en az 2 olmalıdır. Lütfen tekrar girin.");
             System.out.print("Satır sayısını girin: ");
             this.rowNumber = input.nextInt();
             System.out.print("Sütun sayısını girin: ");
