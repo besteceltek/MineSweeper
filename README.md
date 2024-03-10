@@ -14,7 +14,7 @@ To run the MineSweeper game, follow these steps:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/besteceltek/MineField.git
+   git clone https://github.com/besteceltek/MineSweeper.git
 
 3. **Navigate to the Project Directory:**
    ```bash
